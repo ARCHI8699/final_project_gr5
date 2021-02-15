@@ -9,7 +9,7 @@ https://github.com/ARCHI8699/final_project_gr5
 
 ![Header Image](./2.png)
 
-![Header Image](./3.png)
+![Header Image](./3.PNG)
 
 ![Header Image](./4.png)
 
